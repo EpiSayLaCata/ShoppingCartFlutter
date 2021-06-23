@@ -1,3 +1,7 @@
+[Test Technique Bodyo - Mai 2020]
+
+(Not up to date, code outdated)
+
 Welcome to the Shopping Cart with Flutter
 
 ## Getting Started
